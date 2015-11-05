@@ -1,5 +1,14 @@
 <html>
  <head>
+<div class='container'>
+		<div class='manu'>
+			<ul id='menu'>
+				<li><a href="index.html" >Home</a></li>
+				<li><a href='registration.html'> Additional Information Add </a></li>	
+			</ul>
+		</div>
+	</div>
+
  </head>
  <body>
   <script>
