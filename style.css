@@ -1,21 +1,53 @@
 body{
 	margin:5px 5px 5px 5px;
-	background-color:#564892;
+	background-color:olive;
 	color:white;
 }
+div.container{
+	border:1px solid black;
+	width=80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+	
+div.menu{
+		height:50px;
+		border:1px solid black;
+	}
+
+ul{
+		padding:5px;
+		margin:5px;
+		list-style-type:none;
+		text-align:center;
+	}
+	ul li{
+		display:inline;
+	}
+	ul li a{
+		text-decoration:none;
+		padding: 4px 4px;
+		color:black;
+		background-color:red;
+	}
+	ul li a:hover{
+		background-color:yellow;
+	}
 
 div{
-	border:3px solid red;
+	border:1px solid red;
 	width=80%;
 	margin-left:2;
 	margin-right:auto;
 }
 h3{
 	color:white;
+
 }
 P{
 	
 	color:white;
+	backgroud-color:black;
 }
 a{
 	color:red:
